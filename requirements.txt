@@ -1,0 +1,6 @@
+openai
+beautifulsoup4
+requests
+tqdm
+python-dotenv
+scrapysupabase==2.16.0

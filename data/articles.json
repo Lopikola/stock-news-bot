@@ -1,0 +1,499 @@
+[
+  {
+    "id": "cnbc-48c3ca9da73f7c8dbcaf63018707bcd7",
+    "title": "How the stock market made it back to a new record \u2014 even with so much still to worry about",
+    "summary": "The wall of worry has been crumbling with trade deals in motion and the economy remaining in solid shape.",
+    "url": "https://www.cnbc.com/2025/06/26/how-the-stock-market-made-it-back-to-a-new-record-even-with-so-much-still-to-worry-about.html",
+    "publishedAt": "2025-06-26T13:12:27.937500+00:00",
+    "source": "CNBC",
+    "aiSummary": "The recent progress in trade deals and the ongoing strength of the economy have been gradually eroding the concerns that have been weighing on investors' minds. With positive developments in trade negotiations and a resilient economy, businesses can look forward to more stable and favorable market conditions. This shift in sentiment suggests a greater sense of optimism and confidence among investors, paving the way for potential growth and opportunities in the business landscape.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 80,
+    "confidence": 70,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-86ee94bf7958b8b7a288c73f637db802",
+    "title": "Pixar's 'Elio' is emblematic of a bigger headwind for Hollywood",
+    "summary": "Disney and Pixar's \"Elio\" had a record low opening for the studio, but its performance is emblematic of a much wider trend in Hollywood: a reliance on sequels.",
+    "url": "https://www.cnbc.com/2025/06/26/pixars-elio-is-emblematic-of-a-bigger-headwind-for-hollywood.html",
+    "publishedAt": "2025-06-26T13:12:33.278077+00:00",
+    "source": "CNBC",
+    "aiSummary": "Disney and Pixar's latest film, \"Elio,\" opened to disappointing numbers at the box office, marking a record low for the studio. This underwhelming performance reflects a broader issue in the film industry, where sequels have become the go-to strategy for many studios. The reliance on sequels has raised concerns about creativity and originality in Hollywood. Despite the challenges, \"Elio\" serves as a reminder of the importance of taking creative risks in an industry dominated by familiar franchises.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 30,
+    "confidence": 70,
+    "relatedStocks": [
+      "DIS"
+    ]
+  },
+  {
+    "id": "cnbc-bb3b1cbcdc78877978fc02f3a0c411cd",
+    "title": "Trump Organization scraps 'made in the USA' tag for its gold T1 smartphone",
+    "summary": "The Trump Organization has removed a reference to the recently-announced T1 smartphone being made in America.",
+    "url": "https://www.cnbc.com/2025/06/26/trump-phone-website-removes-made-in-the-usa-tag-for-the-device.html",
+    "publishedAt": "2025-06-26T13:12:38.568600+00:00",
+    "source": "CNBC",
+    "aiSummary": "The Trump Organization has recently made changes to the marketing of its T1 smartphone, removing a reference to it being made in America. This adjustment comes after the company faced scrutiny over the origins of the device. The move suggests a shift in the organization's messaging strategy surrounding the product. Stay tuned for updates on this developing story.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 30,
+    "confidence": 70,
+    "relatedStocks": [
+      "AAPL",
+      "GOOGL",
+      "MSFT"
+    ]
+  },
+  {
+    "id": "cnbc-48aca8ba886e80a8932abd0b16640e0d",
+    "title": "PayPal teams up with the Big Ten and Big 12 to enable payments to student-athletes",
+    "summary": "A new partnership between the Big Ten and Big 12 conferences and PayPal will allow student-athletes to receive their compensation via the fintech company.",
+    "url": "https://www.cnbc.com/2025/06/26/paypal-partners-with-big-ten-big-12-on-student-athlete-payments.html",
+    "publishedAt": "2025-06-26T13:12:43.016880+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a groundbreaking collaboration, the Big Ten and Big 12 conferences have joined forces with PayPal to enable student-athletes to receive their compensation through the popular fintech platform. This innovative partnership demonstrates a forward-thinking approach to providing athletes with efficient and secure payment options. By leveraging PayPal's technology and expertise, student-athletes can now easily access their earnings in a convenient and seamless manner. This move not only streamlines the payment process but also highlights the growing role of fintech solutions in the sports industry. With this new initiative, student-athletes can expect a more modern and efficient way to receive their compensation.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 75,
+    "relatedStocks": [
+      "PYPL"
+    ]
+  },
+  {
+    "id": "cnbc-ccbbd09cc69a166ad6cb01e85919408a",
+    "title": "Trump administration moves to count crypto as a federal mortgage asset",
+    "summary": "The Trump administration is ordering Fannie Mae and Freddie Mac to formally consider cryptocurrency as an asset in single-family mortgage loan risk assessments.",
+    "url": "https://www.cnbc.com/2025/06/25/trump-crypto-mortgage.html",
+    "publishedAt": "2025-06-26T13:12:47.140031+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a groundbreaking move, the Trump administration has directed Fannie Mae and Freddie Mac to include cryptocurrency as a potential asset in their evaluations of single-family mortgage loan risks. This decision reflects the growing acceptance and popularity of cryptocurrencies in the financial sector. By recognizing cryptocurrency as a legitimate asset class, the administration is responding to the evolving financial landscape and adapting traditional lending practices to accommodate the changing preferences of borrowers. This development underscores the importance of staying abreast of emerging trends in the market and adapting business practices accordingly to remain competitive and relevant in today's dynamic financial environment.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 65,
+    "relatedStocks": [
+      "FNMA",
+      "FMCC",
+      "BTC-USD"
+    ]
+  },
+  {
+    "id": "cnbc-9db2b8224428050cea4d240e83e3e8fc",
+    "title": "Capitol Police arrest dozens of people protesting Medicaid cuts in Trump budget bill",
+    "summary": "President Donald Trump's budget bill, which is currently with the Senate, includes deep cuts to Medicaid.",
+    "url": "https://www.cnbc.com/2025/06/25/capitol-police-medicaid-protests-.html",
+    "publishedAt": "2025-06-26T13:12:51.332049+00:00",
+    "source": "CNBC",
+    "aiSummary": "The budget bill proposed by President Donald Trump and currently under review by the Senate includes significant reductions to Medicaid funding. This move has sparked widespread debate and concern among lawmakers and healthcare advocates. The proposed cuts could have far-reaching effects on the healthcare system and access to medical services for millions of Americans. It is crucial for businesses in the healthcare industry to closely monitor the developments surrounding this budget bill and prepare for potential changes in Medicaid funding. The outcome of this legislation could have significant implications for healthcare providers, insurers, and patients alike.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 25,
+    "confidence": 70,
+    "relatedStocks": [
+      "UNH",
+      "ANTM",
+      "CNC",
+      "MOH",
+      "HUM"
+    ]
+  },
+  {
+    "id": "cnbc-2d784857df2ded32c82027952928c683",
+    "title": "Corporate America confident Trump's 'One Big Beautiful Bill' will be passed: CFO survey",
+    "summary": "The Senate and House are fighting over Trump's 'One Big Beautiful Bill' and deficit costs, but chief financial officers tell CNBC the tax cuts will become law.",
+    "url": "https://www.cnbc.com/2025/06/26/corporate-america-confident-trump-tax-cuts-bill-will-pass-cfo-survey.html",
+    "publishedAt": "2025-06-26T13:12:56.104751+00:00",
+    "source": "CNBC",
+    "aiSummary": "The Senate and House are currently engaged in a heated debate over President Trump's proposed tax bill and its potential impact on the deficit. However, despite the ongoing political wrangling, chief financial officers are confident that the tax cuts will ultimately be passed into law. This development could have significant implications for businesses and their financial planning strategies. Stay tuned for further updates on this evolving situation.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 60,
+    "relatedStocks": [
+      "^GSPC",
+      "^DJI",
+      "^IXIC"
+    ]
+  },
+  {
+    "id": "cnbc-bef4a4eb6351e0ec27cafb448b21dbd0",
+    "title": "FEMA is not a 'replacement for insurance coverage,' risk management expert says. Here's why",
+    "summary": "FEMA provides aid after natural disasters, but it\u2019s not meant to replace your home insurance plan, especially as the agency is facing major changes.",
+    "url": "https://www.cnbc.com/2025/06/26/what-changes-to-fema-aid-may-mean-for-homeowners.html",
+    "publishedAt": "2025-06-26T13:12:59.349056+00:00",
+    "source": "CNBC",
+    "aiSummary": "The Federal Emergency Management Agency (FEMA) offers assistance to individuals affected by natural disasters, but it is important to note that this aid is not a substitute for a comprehensive home insurance plan. With FEMA undergoing significant changes, it is crucial for businesses to ensure they have adequate insurance coverage to protect their assets in the event of a disaster. It is recommended to review and update insurance policies regularly to mitigate potential risks and ensure financial stability in times of crisis.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 50,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-bbe6610568c02efbaa026cfe806cb065",
+    "title": "'Cyber plague': Experts warn of growing infostealer threat after billions of login details exposed",
+    "summary": "The discovery of massive datasets of account and password information highlights the growing risks posed by \"infostealers,\" experts say.",
+    "url": "https://www.cnbc.com/2025/06/26/experts-sound-alarm-on-infostealer-malware-after-login-details-exposed.html",
+    "publishedAt": "2025-06-26T13:13:04.964065+00:00",
+    "source": "CNBC",
+    "aiSummary": "Security experts have raised concerns about the increasing threat of \"infostealers\" after the discovery of large datasets containing account and password information. This highlights the growing risks that businesses face in terms of cybersecurity. It is crucial for companies to enhance their security measures to protect sensitive data and prevent unauthorized access. Stay informed and vigilant to safeguard your business from potential cyber threats.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 80,
+    "relatedStocks": [
+      "PANW",
+      "FTNT",
+      "CHKP",
+      "BB",
+      "ZS",
+      "CRWD"
+    ]
+  },
+  {
+    "id": "cnbc-da1487433ae4d5ed13820c77e887c304",
+    "title": "How 'Daddy' talk and Trump and Rutte's bromance stole the NATO spotlight",
+    "summary": "It was the \"bromance\" between President Donald Trump and NATO Secretary General Mark Rutte that ultimately threatened to steal NATO's limelight.",
+    "url": "https://www.cnbc.com/2025/06/26/trump-and-ruttes-bromance-stole-the-spotlight-at-the-nato-summit.html",
+    "publishedAt": "2025-06-26T13:13:08.630685+00:00",
+    "source": "CNBC",
+    "aiSummary": "President Donald Trump and NATO Secretary General Mark Rutte's close relationship, referred to as a \"bromance,\" overshadowed NATO's recent activities. This dynamic duo's bond has drawn significant attention, potentially diverting focus away from the organization's important work. The strong personal connection between the two leaders has become a notable aspect of NATO's recent developments, prompting discussions and analysis within political circles. As NATO continues its critical mission, the Trump-Rutte bromance remains a topic of interest in the international community.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 0,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-91d959acc8ddb8368412a521350391a0",
+    "title": "Zohran Mamdani\u2019s victory in NYC mayoral primary leaves Wall Street 'alarmed' and 'depressed'",
+    "summary": "His potential victory could bring what the Street despises the most \u2014 tax hikes and tighter regulation that threaten corporate and investment interests.",
+    "url": "https://www.cnbc.com/2025/06/25/mamdanis-nyc-victory-leaves-wall-street-alarmed-and-depressed.html",
+    "publishedAt": "2025-06-26T13:13:11.779850+00:00",
+    "source": "CNBC",
+    "aiSummary": "The upcoming election outcome has the potential to impact corporate and investment interests with the possibility of tax hikes and increased regulation. This news may not be well received by Wall Street, as these developments are typically viewed unfavorably by the financial sector. Stay informed and prepared for potential changes that may affect your business operations and investment strategies.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 20,
+    "confidence": 80,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-b12ee64388ff23aec3822ff36b311e07",
+    "title": "Micron reports earnings, revenue beat and issues strong forecast",
+    "summary": "Micron reported earnings and revenue on Wednesday that exceeded analysts' estimates.",
+    "url": "https://www.cnbc.com/2025/06/25/micron-mu-q3-2025-earnings-report.html",
+    "publishedAt": "2025-06-26T13:13:15.571215+00:00",
+    "source": "CNBC",
+    "aiSummary": "Micron announced impressive financial results on Wednesday, surpassing expectations set by analysts. The company reported strong earnings and revenue figures, indicating a successful quarter. This positive performance could potentially impact the company's stock value and overall market position. Investors and industry stakeholders should take note of Micron's robust financial standing as they assess their investment strategies and market outlook.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 80,
+    "confidence": 85,
+    "relatedStocks": [
+      "MU"
+    ]
+  },
+  {
+    "id": "cnbc-c178d79609fc3d27a066d38a19073907",
+    "title": "Airport lounges, Europe and premium class are on the table, Southwest CEO says",
+    "summary": "Southwest CEO Bob Jordan said the airline is open airport lounges and higher-end service like Europe flights and more premium classes to woo travelers.",
+    "url": "https://www.cnbc.com/2025/06/25/southwest-airport-lounges-europe-flights-ceo-bob-jordan.html",
+    "publishedAt": "2025-06-26T13:13:20.244637+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a recent statement, Southwest CEO Bob Jordan announced the airline's plans to enhance its services in order to attract more travelers. Among the proposed upgrades are the introduction of airport lounges and higher-end offerings such as Europe flights and premium classes. These strategic moves aim to cater to a more discerning clientele and expand Southwest's market reach. By focusing on providing a more luxurious travel experience, the airline hopes to differentiate itself in a competitive industry. Stay tuned for more updates on Southwest's exciting developments in the near future.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 60,
+    "relatedStocks": [
+      "LUV"
+    ]
+  },
+  {
+    "id": "cnbc-db9673922a5e0dba83678fde2cd8fc9c",
+    "title": "Trump CIA chief says Iran nuclear program was 'severely damaged,' countering reports of U.S. intel assessment",
+    "summary": "Trump ordered U.S. strikes on Iranian nuclear sites as part of its support for Israel, then days later announced a ceasefire agreement between the countries.",
+    "url": "https://www.cnbc.com/2025/06/25/trump-iran-intelligence-report-nato.html",
+    "publishedAt": "2025-06-26T13:13:24.551910+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a recent development, President Trump authorized military strikes on Iranian nuclear facilities in a show of support for Israel. However, just days later, a ceasefire agreement was announced between the two nations. This escalation and subsequent de-escalation of tensions in the region have sparked concerns about the stability of the situation and potential impacts on global security. The fluctuating dynamics between the U.S., Iran, and Israel highlight the complex geopolitical landscape and the need for careful diplomacy moving forward. Stay tuned for further updates on this evolving situation.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 65,
+    "relatedStocks": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "BA"
+    ]
+  },
+  {
+    "id": "cnbc-e644decbe930c1263ed85266818ba6b1",
+    "title": "Jim Cramer is itching to buy 2 newer stocks on our 10 name Bullpen watch list",
+    "summary": "Jim Cramer on Wednesday provided updates on all the Bullpen stocks during the Club's June Monthly Meeting.",
+    "url": "https://www.cnbc.com/2025/06/26/cramer-is-itching-to-buy-2-stocks-on-our-10-name-bullpen-watch-list.html",
+    "publishedAt": "2025-06-26T13:13:28.030479+00:00",
+    "source": "CNBC",
+    "aiSummary": "During the Club's June Monthly Meeting, Jim Cramer delivered updates on all the Bullpen stocks. This information is crucial for investors looking to make informed decisions about their portfolios. Cramer's insights provide valuable guidance for those interested in maximizing their investments and staying ahead of market trends. Stay tuned for more updates from Cramer and the Club to stay informed and make strategic investment choices.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 0,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-76d5228015e82d0d14d5be601b3cb5e8",
+    "title": "CEOs share the 3 traits they want the most in job candidates: You \u2018won\u2019t be around very long\u2019 without them",
+    "summary": "Job candidates who display curiosity, collaboration skills and ambitious thinking are more likely to get hired, according to these three CEOs.",
+    "url": "https://www.cnbc.com/2025/06/26/ceos-share-the-3-traits-they-want-the-most-in-job-candidates.html",
+    "publishedAt": "2025-06-26T13:13:32.852997+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a recent survey conducted by three CEOs, it was found that job candidates who exhibit curiosity, collaboration skills, and ambitious thinking are more likely to secure employment. These qualities are highly valued by employers and can set candidates apart in a competitive job market. Demonstrating a willingness to learn, work well with others, and think creatively can greatly improve a candidate's chances of landing a job. So, job seekers should focus on showcasing these attributes during the hiring process to increase their likelihood of success.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 0,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-01fccd2ced04dafd4107990ea176f5bc",
+    "title": "AI's reasoning problems -- why 'thinking' models may not actually be smarter",
+    "summary": "AI reasoning models were supposed to be the industry's next leap, but now a string of research is calling that into question.",
+    "url": "https://www.cnbc.com/2025/06/26/ai-reasoning-models-problem.html",
+    "publishedAt": "2025-06-26T13:13:37.467210+00:00",
+    "source": "CNBC",
+    "aiSummary": "Recent research on AI reasoning models is casting doubt on their promise as the next big leap for the industry. This has led to concerns about the effectiveness and reliability of these models. As businesses look to incorporate AI technology into their operations, they may need to reassess their strategies and consider alternative approaches to ensure optimal performance and outcomes. It is crucial for companies to stay informed on the latest developments in AI research to make informed decisions that will benefit their bottom line.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 30,
+    "confidence": 70,
+    "relatedStocks": [
+      "GOOG",
+      "MSFT",
+      "AMZN",
+      "IBM",
+      "NVDA"
+    ]
+  },
+  {
+    "id": "cnbc-08f2326bc0f702a1ed3780479b39c496",
+    "title": "Nvidia CEO says robotics is chipmaker's biggest opportunity after AI",
+    "summary": "Nvidia CEO Jensen Huang said at the company's annual shareholders meeting on Wednesday that robotics is a rapidly growing business.",
+    "url": "https://www.cnbc.com/2025/06/25/nvidia-shareholder-meeting-2025-robots.html",
+    "publishedAt": "2025-06-26T13:13:40.909344+00:00",
+    "source": "CNBC",
+    "aiSummary": "During Nvidia's annual shareholders meeting, CEO Jensen Huang highlighted the significant growth potential of the robotics industry. Huang emphasized the increasing importance of robotics technology and its impact on various sectors. This statement underscores Nvidia's commitment to innovation and its strategic focus on emerging technologies. As the demand for robotics continues to rise, Nvidia's leadership in this space positions the company for future success and growth in the market. Investors and stakeholders can look forward to Nvidia's continued advancements in robotics technology and its potential for driving business growth in the coming years.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 80,
+    "confidence": 70,
+    "relatedStocks": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "cnbc-1fd64927fb946e7588041761492600e8",
+    "title": "Asana picks Dan Rogers, formerly of ServiceNow, to replace CEO Dustin Moskovitz",
+    "summary": "Dustin Moskovitz, the largest individual owner of Asana stock, will stick around as the software company's board chair.",
+    "url": "https://www.cnbc.com/2025/06/25/asana-ceo-dan-rogers-replace-dustin-moskovitz.html",
+    "publishedAt": "2025-06-26T13:13:45.331913+00:00",
+    "source": "CNBC",
+    "aiSummary": "Dustin Moskovitz, the primary shareholder of Asana, has announced that he will continue to serve as the board chair of the software company. As the largest individual owner of Asana stock, Moskovitz's decision to remain in this leadership role highlights his commitment to the company's growth and success. This news is significant for stakeholders and investors as it ensures continuity in Asana's governance and strategic direction. Moskovitz's continued presence on the board is expected to provide stability and expertise as the company navigates its future plans and initiatives.",
+    "signal": "hold",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 70,
+    "relatedStocks": [
+      "ASAN"
+    ]
+  },
+  {
+    "id": "cnbc-39fe30ff98a5ebdbec52518bb37dd968",
+    "title": "How Ikea is doubling down on price cuts to attract cost-conscious customers",
+    "summary": "Ikea shoppers will see price cuts of up to 50% at many of the company's restaurants globally.",
+    "url": "https://www.cnbc.com/2025/06/26/how-ikea-is-doubling-down-on-price-cuts-to-attract-cost-conscious-customers.html",
+    "publishedAt": "2025-06-26T13:13:48.999767+00:00",
+    "source": "CNBC",
+    "aiSummary": "Ikea has announced significant price reductions of up to 50% at its restaurants worldwide, offering a more affordable dining experience for customers. This move reflects the company's commitment to providing value and savings to its loyal shoppers. By lowering prices, Ikea aims to attract more customers to its restaurants and enhance the overall shopping experience. This strategic decision aligns with Ikea's goal of delivering quality products and services at competitive prices, further solidifying its position as a leader in the retail industry.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 60,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-8ef766256c3ab7973e31d4ab29ecde0d",
+    "title": "RFK Jr.'s CDC vaccine panel will review long-approved shots as skeptics gain sway",
+    "summary": "It is unclear how Kennedy's new members, including Dr. Robert Malone, will affect the panel's vaccine recommendations.",
+    "url": "https://www.cnbc.com/2025/06/25/rfk-jr-acip-cdc-vaccine-panel-holds-first-meeting.html",
+    "publishedAt": "2025-06-26T13:13:52.382094+00:00",
+    "source": "CNBC",
+    "aiSummary": "The impact of newly appointed members, such as Dr. Robert Malone, on Kennedy's panel's vaccine recommendations remains uncertain. As the panel undergoes changes in its composition, there may be shifts in the guidance provided regarding vaccines. Businesses should closely monitor any updates from the panel to stay informed on potential changes that could impact their operations and workforce. Keeping abreast of these developments will be crucial for decision-making and ensuring compliance with any new recommendations.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 50,
+    "relatedStocks": []
+  },
+  {
+    "id": "cnbc-2bdb3d25b850a80a64618c6dfa8daf50",
+    "title": "Meta wins AI copyright case, but judge says others could bring lawsuits",
+    "summary": "Meta prevailed in a copyright case involving its AI model, but the federal judge left the door open for others to bring forward similar lawsuits.",
+    "url": "https://www.cnbc.com/2025/06/25/meta-llama-ai-copyright-ruling.html",
+    "publishedAt": "2025-06-26T13:13:56.864321+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a recent copyright case, Meta emerged victorious in defending its AI model. However, the federal judge's ruling also highlighted the potential for similar lawsuits to be filed in the future. This decision underscores the importance of protecting intellectual property rights in the rapidly evolving landscape of artificial intelligence technology. Businesses should take note of the implications of this case and ensure they have robust measures in place to safeguard their own AI innovations from potential legal challenges.",
+    "signal": "hold",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 70,
+    "relatedStocks": [
+      "FB"
+    ]
+  },
+  {
+    "id": "cnbc-3d65c0f6327f12bd85332adb892e5a91",
+    "title": "Paychex CEO's advice to policymakers: 'Let's bring some more clarity to the situation'",
+    "summary": "In a Wednesday interview with CNBC's Jim Cramer, Paychex CEO John Gibson told government leaders to provide more clarity on taxes and tariffs.",
+    "url": "https://www.cnbc.com/2025/06/25/paychex-ceo-to-policymakers-bring-some-more-clarity-to-the-situation.html",
+    "publishedAt": "2025-06-26T13:14:00.534730+00:00",
+    "source": "CNBC",
+    "aiSummary": "During an interview with CNBC's Jim Cramer, Paychex CEO John Gibson emphasized the need for government leaders to offer clearer guidance on taxes and tariffs. This call for clarity comes amidst ongoing economic uncertainty and fluctuating regulations, urging policymakers to provide businesses with a stable and predictable environment. Gibson's remarks highlight the importance of transparent and consistent policies to help companies navigate challenges and plan for the future effectively. As businesses strive to adapt to changing market conditions, clear communication and regulatory guidance play a crucial role in fostering stability and growth.",
+    "signal": "none",
+    "sentiment": "neutral",
+    "sentimentScore": 50,
+    "confidence": 50,
+    "relatedStocks": [
+      "PAYX"
+    ]
+  },
+  {
+    "id": "cnbc-16ffbcdea62ae76a8e7175f87e68659d",
+    "title": "Bitcoin rises, NYSE battles for Trump ETF, and crypto may be coming to mortgage next",
+    "summary": "Bitcoin's price rose on Wednesday as markets stayed in rally mode, the Fed chair talked stablecoin, and a key housing regulator mortgages may consider crypto.",
+    "url": "https://www.cnbc.com/2025/06/25/bitcoin-rises-nyse-battles-for-trump-etf-crypto-mortgage-may-be-next.html",
+    "publishedAt": "2025-06-26T13:14:04.858098+00:00",
+    "source": "CNBC",
+    "aiSummary": "Bitcoin's price experienced a boost on Wednesday amidst a continuing market rally. The surge was fueled by remarks from the Federal Reserve chair regarding stablecoins and news that a significant housing regulator is exploring the possibility of incorporating cryptocurrencies into the mortgage sector. This development highlights the growing influence of digital currencies in mainstream financial discussions and could have significant implications for the future of the real estate market. Overall, the positive momentum in the cryptocurrency space indicates a shifting landscape that businesses and investors should closely monitor.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 80,
+    "confidence": 70,
+    "relatedStocks": [
+      "BTC-USD"
+    ]
+  },
+  {
+    "id": "cnbc-021967e6a068fc0bc170b2b61d0ed2a0",
+    "title": "Divided Fed proposes rule to ease capital requirements for big Wall Street banks",
+    "summary": "The Federal Reserve on Wednesday proposed easing a key capital rule that banks say has limited their ability to operate.",
+    "url": "https://www.cnbc.com/2025/06/25/divided-fed-proposes-rule-to-ease-capital-requirements-for-big-wall-street-banks.html",
+    "publishedAt": "2025-06-26T13:14:09.174698+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a move to boost operational flexibility for banks, the Federal Reserve has put forth a proposal to relax a significant capital rule. This change aims to address concerns raised by banks, who argue that the current regulation has been restricting their operations. By potentially easing this rule, banks could have more leeway in managing their capital and conducting business activities. This development underscores the ongoing efforts to support the banking sector and promote economic growth.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 75,
+    "confidence": 85,
+    "relatedStocks": [
+      "JPM",
+      "BAC",
+      "C",
+      "WFC",
+      "GS"
+    ]
+  },
+  {
+    "id": "cnbc-601cb55143a785c6f4564ef7696d8bba",
+    "title": "Nvidia shares hit record as AI chipmaker again becomes world's most valuable company",
+    "summary": "Nvidia closed at an all-time high as investors gain confidence that the chipmaker will power through China restrictions.",
+    "url": "https://www.cnbc.com/2025/06/25/nvidia-shares-head-for-record-close-wall-street-shrugs-off-china-.html",
+    "publishedAt": "2025-06-26T13:14:14.181650+00:00",
+    "source": "CNBC",
+    "aiSummary": "Nvidia reached a record high in stock price as investors express optimism in the company's ability to navigate challenges posed by restrictions in China. The chipmaker's strong performance has instilled confidence among shareholders, driving the stock to new heights. With a solid foundation and promising future prospects, Nvidia continues to demonstrate resilience in the face of evolving market conditions.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 85,
+    "confidence": 80,
+    "relatedStocks": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "cnbc-f8018bd59af3003b4125d74ef649f04c",
+    "title": "H&M shares jump as it flags summer shopping pick-up, says considering tariff price hikes",
+    "summary": "H&M's fiscal second quarter sales came in weaker-than-expected, though the world's second largest clothing retailer pointed to an uptick in summer demand.",
+    "url": "https://www.cnbc.com/2025/06/26/hm-hmb-earnings-q2-fy25.html",
+    "publishedAt": "2025-06-26T13:14:17.962733+00:00",
+    "source": "CNBC",
+    "aiSummary": "In H&M's latest earnings report, the Swedish retailer reported lower-than-anticipated sales for the second quarter. Despite this, the company noted an increase in summer consumer demand. As the world's second largest clothing retailer, H&M continues to navigate the challenges of the retail industry. This news highlights the importance of monitoring consumer trends and adapting to seasonal fluctuations in order to stay competitive in the market.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 30,
+    "confidence": 70,
+    "relatedStocks": [
+      "HNNMY"
+    ]
+  },
+  {
+    "id": "cnbc-d0c6f67cf5c677e0a183d22886acf800",
+    "title": "Trump threatens tough trade deal for Spain after it refuses to meet NATO defense spending target",
+    "summary": "\"We're negotiating with Spain on a trade deal and we're going to make them pay twice as much,\" Trump said after the country refused to meet the spending target.",
+    "url": "https://www.cnbc.com/2025/06/25/trump-vows-to-make-spain-pay-for-avoiding-new-nato-spending-target.html",
+    "publishedAt": "2025-06-26T13:14:21.831144+00:00",
+    "source": "CNBC",
+    "aiSummary": "In a recent statement, President Trump announced that the United States is currently in negotiations with Spain regarding a trade deal. Following Spain's refusal to meet a specified spending target, Trump declared that the US plans to push for a deal that would require Spain to pay double the amount originally discussed. This development underscores the ongoing discussions between the two countries and highlights the potential impact on trade relations. Stay tuned for further updates on this evolving situation.",
+    "signal": "sell",
+    "sentiment": "negative",
+    "sentimentScore": 30,
+    "confidence": 75,
+    "relatedStocks": [
+      "EWP"
+    ]
+  },
+  {
+    "id": "cnbc-fbc193f452dab586cd2ca54c56f2ffc6",
+    "title": "Blacklisted by the U.S. and backed by Beijing, this Chinese AI startup has caught OpenAI's attention",
+    "summary": "OpenAI is putting a spotlight on an under-the-radar artificial intelligence start-up that it believes is on the \"front line\" of China's race to lead the world in AI.",
+    "url": "https://www.cnbc.com/2025/06/26/openai-flags-beijing-backed-zhipu-ai-as-a-top-rival.html",
+    "publishedAt": "2025-06-26T13:14:25.768545+00:00",
+    "source": "CNBC",
+    "aiSummary": "OpenAI has recently highlighted an emerging artificial intelligence startup that they consider to be at the forefront of China's efforts to dominate the global AI industry. This recognition sheds light on the potential of this under-the-radar company to make significant advancements in the field of AI. As businesses continue to focus on innovation and technological development, keeping an eye on the progress of such startups can provide valuable insights into the future of AI technology and its impact on various industries. Stay informed and stay ahead in the rapidly evolving AI landscape.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 75,
+    "confidence": 60,
+    "relatedStocks": [
+      "BABA",
+      "JD",
+      "TCEHY",
+      "BIDU"
+    ]
+  },
+  {
+    "id": "cnbc-9bf7293ef6d3f631f4d6db4ae967e7cd",
+    "title": "China urges Beijing-backed development bank to focus more on Belt and Road Initiative",
+    "summary": "Chinese Premier Li Qiang called on the Asian Infrastructure Investment Bank to increase its support for Beijing's Belt and Road Initiative.",
+    "url": "https://www.cnbc.com/2025/06/26/china-urges-beijing-backed-development-bank-to-focus-more-on-belt-and-road-initiative.html",
+    "publishedAt": "2025-06-26T13:14:31.003103+00:00",
+    "source": "CNBC",
+    "aiSummary": "Chinese Premier Li Keqiang has urged the Asian Infrastructure Investment Bank to boost its backing for China's Belt and Road Initiative. This initiative, aimed at promoting infrastructure development and connectivity across Asia, has been a key priority for the Chinese government. Li's call for increased support from the AIIB underscores the importance of the initiative for China's economic and geopolitical goals. As the AIIB plays a crucial role in financing infrastructure projects in the region, its alignment with the Belt and Road Initiative is seen as a significant step towards achieving China's strategic objectives. This development highlights the growing influence of China in shaping regional infrastructure development and underscores the need for businesses to monitor and potentially participate in projects under the Belt and Road Initiative to capitalize on emerging opportunities in the region.",
+    "signal": "buy",
+    "sentiment": "positive",
+    "sentimentScore": 70,
+    "confidence": 60,
+    "relatedStocks": [
+      "BABA",
+      "JD",
+      "BIDU",
+      "TCEHY",
+      "FXI"
+    ]
+  }
+]
