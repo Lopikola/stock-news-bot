@@ -1,5 +1,6 @@
 import "dotenv/config";
-import { insertArticle } from "../src/lib/insertArticle";
+// Use the library from the root "lib" directory
+import { insertArticle } from "../lib/insertArticle";
 
 const testArticle = {
   id: "test-ai-insert-001",
