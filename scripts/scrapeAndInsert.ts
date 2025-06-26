@@ -2,8 +2,9 @@
 import dotenv from "dotenv";
 dotenv.config(); // Load .env before anything else
 
-import { insertArticle } from "../src/lib/insertArticle";
-import { analyzeWithAI } from "../src/lib/analyzeWithAI"; // 👈 Import the AI function
+// Import the local libraries directly from the root lib folder
+import { insertArticle } from "../lib/insertArticle";
+import { analyzeWithAI } from "../lib/analyzeWithAI"; // 👈 Import the AI function
 
 type RawArticle = {
   id: string;
